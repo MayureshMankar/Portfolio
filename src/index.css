@@ -1,0 +1,40 @@
+/* index.css */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #0d1117;
+  color: #c9d1d9;
+}
+
+a {
+  color: #58a6ff;
+  text-decoration: none;
+}
+
+.section {
+  padding: 80px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+header, footer {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #161b22;
+}
+
+nav a {
+  margin: 0 15px;
+}
+
+button {
+  background-color: #238636;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+}
+html {
+  scroll-behavior: smooth;
+}
